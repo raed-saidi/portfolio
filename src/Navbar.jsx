@@ -6,7 +6,7 @@ export default function  Navbar(){
         <nav className='navbar' >
 
         
-            <img  src="/src/logo.png" />
+            <h1 className='prt-name'>Portfolio</h1>
             <ul className="navbar-elements">
                 <li> 
                     <a  href='#HOME'>Home</a>
